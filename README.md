@@ -6,3 +6,6 @@
   - These aren't necessarily the most optimal solutions, these are just what I came up with.
 - This will be updated as I solve more problems
 - Organized alphabetically
+
+
+###### If there is a mistake, please let me know, I didn't proof read this too much
