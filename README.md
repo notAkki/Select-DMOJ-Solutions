@@ -8,4 +8,4 @@
 - Organized alphabetically
 
 
-###### If there is a mistake, please let me know, I didn't proof read this too much
+###### If there is a mistake, please open an issue, I didn't proof read this too much
