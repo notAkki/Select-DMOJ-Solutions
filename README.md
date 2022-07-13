@@ -1,6 +1,6 @@
 # Select DMOJ Solutions
 ### Select DMOJ solutions mostly in Java and C++
-- Most of these solutions are for 5 and 7 point problems
+- Points range from 1 - 15, with the majority being 3, 5 or 7
   -  There are also a lot of CCC problems for both Junior and Senior
 - All problems will get full points
   - These aren't necessarily the most optimal solutions, these are just what I came up with.
@@ -8,4 +8,4 @@
 - Organized alphabetically
 
 
-###### If there is a mistake, please let me know, I didn't proof read this too much
+###### If there is a mistake, please open an issue, I didn't proof read this too much
